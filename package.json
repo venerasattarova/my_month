@@ -1,0 +1,2 @@
+{"name":"mesyac-desktop","version":"1.0.0","description":"Трекер привычек и воспоминаний","main":"main.cjs","scripts":{"start":"electron .","dist":"electron-builder --win nsis"},"devDependencies":{"electron":"^39.0.0","electron-builder":"^26.0.12"},"build":{"appId":"ru.mesyac.desktop","productName":"Месяц","files":["index.html","styles.css","app.js","main.cjs","preload.cjs"],"win":{"target":"nsis"}}}
+
