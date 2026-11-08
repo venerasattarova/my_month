@@ -1,0 +1,11 @@
+node_modules/
+dist/
+release/
+install-log.txt
+*.log
+.env
+.env.*
+!.env.example
+mesyac-data.json
+settings.json
+
